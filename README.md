@@ -232,6 +232,10 @@ React: [react-pptx](https://github.com/wyozi/react-pptx) - thanks to [Joonas](ht
 
 ---
 
+# Making a new release
+
+npm publish --access public
+
 # Issues / Suggestions
 
 Please file issues or suggestions on the [issues page on github](https://github.com/gitbrent/PptxGenJS/issues/new), or even better, [submit a pull request](https://github.com/gitbrent/PptxGenJS/pulls). Feedback is always welcome!
